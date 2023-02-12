@@ -1,7 +1,7 @@
-### Hi there 👋 I am Aditya Kumar Tiwari
+### Hey there, I'm Aditya Kumar Tiwari
 
-<!--
-**aditya8182/aditya8182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
